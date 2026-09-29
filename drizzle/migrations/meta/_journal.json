@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790156059053,
+      "tag": "0000_force_rls_shop_state",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790156195310,
+      "tag": "0001_create_private_orders",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790156302852,
+      "tag": "0002_lock_orders_grants",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1790156377284,
+      "tag": "0003_create_audit_log",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1790156643162,
+      "tag": "0004_lock_shop_state_public_read",
+      "breakpoints": true
+    }
+  ]
+}
